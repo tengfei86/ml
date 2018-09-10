@@ -5,7 +5,7 @@ local.properties
 build
 app/build
 app/src/main/jni/toolchain
-.DS_Store
+*.DS_Store
 *.seg
 app/src/main/libs
 app/src/main/obj
