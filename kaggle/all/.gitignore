@@ -9,3 +9,4 @@ app/src/main/jni/toolchain
 *.seg
 app/src/main/libs
 app/src/main/obj
+.ipynb_checkpoints
